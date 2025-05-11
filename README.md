@@ -1,6 +1,6 @@
 # 🚀 Personal Portfolio - Abhisri Vasipalli
 
-Welcome to my personal portfolio website! This is a fully responsive and modern portfolio built using **HTML, Tailwind CSS, JavaScript**, and includes support for **dark/light mode**, animated sections, and interactive UI elements.
+Welcome to my personal portfolio website! This is a fully responsive and modern portfolio built using **HTML, Tailwind CSS, JavaScript**, and includes animated sections, and interactive UI elements.
 
 ---
 
@@ -8,7 +8,6 @@ Welcome to my personal portfolio website! This is a fully responsive and modern 
 
 - Responsive layout (desktop/mobile/tablet)
 - Smooth scrolling and navigation highlights
-- Theme toggle (Light/Dark mode)
 - Animated skill bars
 - Project showcase with live/demo and GitHub links
 - Contact form with social links
@@ -18,14 +17,7 @@ Welcome to my personal portfolio website! This is a fully responsive and modern 
 
 ## 🔗 Live Demo
 
-🌐 [View Portfolio](https://yourusername.github.io/your-repo-name)
-
----
-
-## 📸 Screenshots
-
-![Screenshot 1](screenshots/home.png)
-![Screenshot 2](screenshots/projects.png)
+🌐 [View Portfolio](https://abhisri-08.github.io/portfolio/)
 
 ---
 
